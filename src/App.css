@@ -1,0 +1,9 @@
+/* App.css */
+
+body {
+  padding-top: 56px; /* Adjust for fixed navbar height */
+}
+
+.container {
+  max-width: 600px;
+}
